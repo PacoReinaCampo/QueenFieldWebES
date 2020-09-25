@@ -1,0 +1,6 @@
+rm -f *.pdf
+
+pandoc HardwareSystems.md     -s -o HardwareSystems.pdf
+pandoc SoftwareSystems.md     -s -o SoftwareSystems.pdf
+pandoc IntelligenceSystems.md -s -o IntelligenceSystems.pdf
+pandoc FinancialSystems.md    -s -o FinancialSystems.pdf

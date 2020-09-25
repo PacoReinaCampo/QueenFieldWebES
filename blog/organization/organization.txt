@@ -1,0 +1,89 @@
+.
+└── QueenFieldWeb
+    ├── MPSoC-FinTech (finance)
+    │   └── MPSoC-NTM (intelligence)
+    │       ├── gnudebian (software)
+    │       │   └── gnuhurd
+    │       │       └── gnumach
+    │       └── MPSoC-UVM (hardware)
+    │           ├── MPSoC-MSP430
+    │           │   ├── MPSoC-DBG
+    │           │   ├── MPSoC-NoC
+    │           │   └── SoC-MSP430
+    │           │       ├── MPSoC-DBG
+    │           │       ├── MPSoC-DMA
+    │           │       ├── MPSoC-GPIO
+    │           │       ├── MPSoC-MPI
+    │           │       ├── MPSoC-MPRAM
+    │           │       ├── MPSoC-MSI
+    │           │       ├── MPSoC-SPRAM
+    │           │       ├── MPSoC-UART
+    │           │       └── PU-MSP430
+    │           ├── MPSoC-OR1K
+    │           │   ├── MPSoC-DBG
+    │           │   ├── MPSoC-NoC
+    │           │   └── SoC-OR1K
+    │           │       ├── MPSoC-DBG
+    │           │       ├── MPSoC-DMA
+    │           │       ├── MPSoC-GPIO
+    │           │       ├── MPSoC-MPI
+    │           │       ├── MPSoC-MPRAM
+    │           │       ├── MPSoC-MSI
+    │           │       ├── MPSoC-SPRAM
+    │           │       ├── MPSoC-UART
+    │           │       └── PU-OR1K
+    │           └── MPSoC-RISCV
+    │               ├── MPSoC-DBG
+    │               ├── MPSoC-NoC
+    │               └── SoC-RISCV
+    │                   ├── MPSoC-DBG
+    │                   ├── MPSoC-DMA
+    │                   ├── MPSoC-GPIO
+    │                   ├── MPSoC-MPI
+    │                   ├── MPSoC-MPRAM
+    │                   ├── MPSoC-MSI
+    │                   ├── MPSoC-SPRAM
+    │                   ├── MPSoC-UART
+    │                   └── PU-RISCV
+    ├── SoC-FinTech (finance)
+    │   └── SoC-NTM (intelligence)
+    │       ├── gnuhurd (software)
+    │       │   └── gnumach
+    │       └── SoC-UVM (hardware)
+    │           ├── SoC-MSP430
+    │           │   ├── MPSoC-DBG
+    │           │   ├── MPSoC-DMA
+    │           │   ├── MPSoC-GPIO
+    │           │   ├── MPSoC-MPI
+    │           │   ├── MPSoC-MPRAM
+    │           │   ├── MPSoC-MSI
+    │           │   ├── MPSoC-SPRAM
+    │           │   ├── MPSoC-UART
+    │           │   └── PU-MSP430
+    │           ├── SoC-OR1K
+    │           │   ├── MPSoC-DBG
+    │           │   ├── MPSoC-DMA
+    │           │   ├── MPSoC-GPIO
+    │           │   ├── MPSoC-MPI
+    │           │   ├── MPSoC-MPRAM
+    │           │   ├── MPSoC-MSI
+    │           │   ├── MPSoC-SPRAM
+    │           │   ├── MPSoC-UART
+    │           │   └── PU-OR1K
+    │           └── SoC-RISCV
+    │               ├── MPSoC-DBG
+    │               ├── MPSoC-DMA
+    │               ├── MPSoC-GPIO
+    │               ├── MPSoC-MPI
+    │               ├── MPSoC-MPRAM
+    │               ├── MPSoC-MSI
+    │               ├── MPSoC-SPRAM
+    │               ├── MPSoC-UART
+    │               └── PU-RISCV
+    └── PU-FinTech (finance)
+        └── PU-NTM (intelligence)
+            ├── gnumach (software)
+            └── PU-UVM (hardware)
+                ├── PU-MSP430
+                ├── PU-OR1K
+                └── PU-RISCV
