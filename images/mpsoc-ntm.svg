@@ -26,14 +26,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1533"
-     inkscape:window-height="845"
+     inkscape:window-width="1528"
+     inkscape:window-height="836"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="1.5116085"
-     inkscape:cx="196.73418"
-     inkscape:cy="200.88469"
-     inkscape:window-x="67"
+     inkscape:cx="79.640369"
+     inkscape:cy="198.2385"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
@@ -51,7 +51,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title></dc:title>
+    <dc:title />
   </cc:Work>
 </rdf:RDF>
 </metadata>
@@ -65,18 +65,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690285px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="140.67053"
-     y="208.50807"
-     id="text828"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826"
-       x="140.67053"
-       y="208.50807"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot830"
@@ -98,18 +86,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="140.67053"
-     y="163.90216"
-     id="text828-7"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-5"
-       x="140.67053"
-       y="163.90216"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,112.5,158.65385)"
      id="g6-3-2"
@@ -120,18 +96,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="140.67053"
-     y="119.29626"
-     id="text828-7-0"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-5-9"
-       x="140.67053"
-       y="119.29626"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,164.42309,262.5)"
      id="g6-36"
@@ -142,18 +106,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="201.11108"
-     y="208.50807"
-     id="text828-6"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-2"
-       x="201.11108"
-       y="208.50807"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,164.42309,210.57693)"
      id="g6-3-6"
@@ -164,18 +116,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="201.11108"
-     y="163.90216"
-     id="text828-7-8"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-5-7"
-       x="201.11108"
-       y="163.90216"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,164.42309,158.65385)"
      id="g6-3-2-9"
@@ -186,18 +126,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="201.11108"
-     y="119.29626"
-     id="text828-7-0-0"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-5-9-2"
-       x="201.11108"
-       y="119.29626"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,216.34617,262.5)"
      id="g6-37"
@@ -208,18 +136,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="261.5517"
-     y="208.50807"
-     id="text828-9"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-22"
-       x="261.5517"
-       y="208.50807"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,216.34617,210.57693)"
      id="g6-3-8"
@@ -230,18 +146,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="261.5517"
-     y="163.90218"
-     id="text828-7-7"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-5-3"
-       x="261.5517"
-       y="163.90218"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <g
      transform="matrix(0.00360606,0,0,-0.00360577,216.34617,158.65385)"
      id="g6-3-2-6"
@@ -252,18 +156,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        inkscape:connector-curvature="0"
        style="fill:#d70f51;fill-opacity:1" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.09690261px;line-height:23;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05242257"
-     x="261.5517"
-     y="119.29626"
-     id="text828-7-0-2"
-     transform="scale(0.85907678,1.1640403)"><tspan
-       sodipodi:role="line"
-       id="tspan826-5-9-9"
-       x="261.5517"
-       y="119.29626"
-       style="font-size:10.48451614px;line-height:40;fill:#ffffff;stroke-width:0.05242257">RISC-V</tspan></text>
   <rect
      style="fill:#d70f51;fill-opacity:1;stroke-width:0.50055647"
      id="rect46"
